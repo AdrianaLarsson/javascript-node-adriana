@@ -1,0 +1,42 @@
+body {
+  background: hsl(195, 100%, 51%);
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+p {
+  margin-bottom: 1.5em;
+  color: #6d6d6d;
+}
+
+
+.card {
+  justify-self: center;
+  background: white;
+  margin-bottom: 2em;
+  border-radius: 10px;
+  width: 100%;
+
+}
+
+.card a {
+  color: black;
+  text-decoration: none;
+}
+
+.card-content {
+  padding: 1em;
+  width: 100%;
+
+}
+
+.site-title {
+  background-color: #000000;
+  color: white;
+  margin: 15px;
+  text-align: center;
+  border-radius: 3px;
+}

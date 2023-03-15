@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "javascript and node",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start-server": "node server.js && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,10 +17,6 @@
   "bugs": {
     "url": "https://github.com/AdrianaLarsson/javascript-node-adriana/issues"
   },
-  "homepage": "https://github.com/AdrianaLarsson/javascript-node-adriana#readme",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "xmljs": "^0.3.2"
-  }
-  
+  "homepage": "https://github.com/AdrianaLarsson/javascript-node-adriana#readme"
+
 }

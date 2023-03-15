@@ -1,5 +1,5 @@
-const http = require("http");
-var fs = require("fs");
+import fs from "fs";
+import http from "http";
 
 const hostname = "127.0.0.1";
 const port = 3000;
